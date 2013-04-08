@@ -41,3 +41,7 @@
   * 实现网页搜索功能。
   * 新增职位搜索和购物搜索。
   * 调整页面兼容性，兼容IE6、IE7、IE8、IE9、IE10、Firefox、Chrome。
+
+## 代码授权
+
+MIT License：[http://opensource.org/licenses/MIT](http://www.opensource.org/licenses/mit-license.php)
